@@ -5,7 +5,7 @@ AMV
 Figure number: Figure 3.40
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
 
-![Figure 3.40](../images/ar6_wg1_chap3_figure3_40_amv.png?raw=true)
+![Figure 3.40](ar6_wg1_chap3_figure3_40_amv.png?raw=true)
 
 
 Description:
@@ -52,19 +52,19 @@ Author list:
 
 ESMValTool Branch:
 ------------------
-- ESMValTool-AR6-OriginalCode-FinalFigures: [ar6_chapter_3](https://github.com/ESMValGroup/ESMValTool-AR6-OriginalCode-FinalFigures/tree/ar6_chapter_3)
+- ESMValTool-AR6-OriginalCode-FinalFigures: [ar6_chapter_3](https://github.com/ipcc-wgi/ESMValTool-AR6-OriginalCode-FinalFigures/tree/ar6_chapter_3)
 
 
 ESMValCore Branch:
 ------------------
-- ESMValCore-AR6-OriginalCode-FinalFigures: [fix_cmip6_models_newcore](https://github.com/ESMValGroup/ESMValCore-AR6-OriginalCode-FinalFigures/tree/fix_cmip6_models_newcore)
+- ESMValCore-AR6-OriginalCode-FinalFigures: [fix_cmip6_models_newcore](https://github.com/ipcc-wgi/ESMValCore-AR6-OriginalCode-FinalFigures/tree/fix_cmip6_models_newcore)
 
 
 Recipe & diagnostics:
 ---------------------
-Recipe used: [recipes/ipccwg1ar6ch3/recipe_ipccwg1ar6ch3_modes.yml](https://github.com/ESMValGroup/ESMValTool-AR6-OriginalCode-FinalFigures/blob/ar6_chapter_3/esmvaltool/recipes/ipccwg1ar6ch3/recipe_ipccwg1ar6ch3_modes.yml)
+Recipe used: [recipes/ipccwg1ar6ch3/recipe_ipccwg1ar6ch3_modes.yml](https://github.com/ipcc-wgi/ESMValTool-AR6-OriginalCode-FinalFigures/blob/ar6_chapter_3/esmvaltool/recipes/ipccwg1ar6ch3/recipe_ipccwg1ar6ch3_modes.yml)
 
-Diagnostic used: [diag_scripts/ipccwg1ar6ch3_modes/amv.ncl](https://github.com/ESMValGroup/ESMValTool-AR6-OriginalCode-FinalFigures/blob/ar6_chapter_3/esmvaltool/diag_scripts/ipccwg1ar6ch3_modes/amv.ncl)
+Diagnostic used: [diag_scripts/ipccwg1ar6ch3_modes/amv.ncl](https://github.com/ipcc-wgi/ESMValTool-AR6-OriginalCode-FinalFigures/blob/ar6_chapter_3/esmvaltool/diag_scripts/ipccwg1ar6ch3_modes/amv.ncl)
 
 
 Expected image path:
@@ -74,8 +74,8 @@ Expected image path:
 
 Software description:
 ---------------------
-- ESMValTool environment file: [IPCC_environments/esmvaltool_ar6_yu_conda_environment.yml](https://github.com/ESMValGroup/ESMValTool-AR6-OriginalCode-FinalFigures/blob/main/IPCC_environments/esmvaltool_ar6_yu_conda_environment.yml)
-- pip file: [IPCC_environments/esmvaltool_ar6_yu_pip_environment.txt](https://github.com/ESMValGroup/ESMValTool-AR6-OriginalCode-FinalFigures/blob/main/IPCC_environments/esmvaltool_ar6_yu_pip_environment.txt)
+- ESMValTool environment file: [IPCC_environments/esmvaltool_ar6_yu_conda_environment.yml](https://github.com/ipcc-wgi/ESMValTool-AR6-OriginalCode-FinalFigures/blob/main/IPCC_environments/esmvaltool_ar6_yu_conda_environment.yml)
+- pip file: [IPCC_environments/esmvaltool_ar6_yu_pip_environment.txt](https://github.com/ipcc-wgi/ESMValTool-AR6-OriginalCode-FinalFigures/blob/main/IPCC_environments/esmvaltool_ar6_yu_pip_environment.txt)
 
 
 Hardware description:
